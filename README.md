@@ -20,12 +20,12 @@ I’m a passionate **Software Engineering student at WeThinkCode_** with hands-o
 - Trilingual: English, Zulu, Xhosa.  
 - Strong communicator who enjoys teamwork, knowledge sharing, and brainstorming ideas.  
 
-📌 **What’s Next:**  
+**What’s Next:**  
 I’m eager to contribute to real-world software development projects, grow as a developer, and collaborate with teams on impactful solutions.  
 
-📫 **Let’s Connect:**  
+**Let’s Connect:**  
 - [LinkedIn](https://linkedin.com/in/mxolisi-khumalo-8b6296324)  
 - [Email](mailto:mxkhuma19b042@student.wethinkcode.co.za)  
 
 ---
-✨ Always building. Always learning, Always on to the next big thing.
+Always building. Always learning, Always on to the next big thing.
