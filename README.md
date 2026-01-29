@@ -1,6 +1,6 @@
 # Hi, I'm Mxolisi Khumalo  
 
-Junior Software Engineer & Developer | WeThinkCode_ Alumni | Lifelong Learner | Problem-Solver | Creativist
+Software Engineer & Developer | WeThinkCode_ Alumni | Lifelong Learner | Problem-Solver | Creativist
 
 I’m a passionate **Software Engineering student at WeThinkCode_** with hands-on experience building projects in **Java, Python, C#, MIPS, HTML/CSS and SQL**. I enjoy tackling challenges through clean code, creative problem-solving, and collaborative development.  
 
